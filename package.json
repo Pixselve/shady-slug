@@ -1,7 +1,7 @@
 {
   "name": "shady-slug",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generate a shady slug",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -15,7 +15,11 @@
     "prettier": "^2.7.1",
     "typescript": "^4.8.3"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["slug", "shady", "random"],
+  "author": "Mael Kerichard",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pixselve/shady-slug.git"
+  }
 }
