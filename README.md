@@ -2,6 +2,7 @@
 
 ## Usage
 ```javascript
-const generate = import('shady-slug');
-const slug = generate();
+import generate from "shady-slug";
+
+const slug = generate(); // cam-spy-free-iphone-14-8i2p8
 ```
